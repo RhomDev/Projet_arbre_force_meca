@@ -1,0 +1,174 @@
+INFO: Start of Translation:	14-Oct-2026 10:05:43 AM
+
+INFO: Header : Author::License CC BY-ND 4.0
+INFO: Header : Authorization::  
+INFO: Header : Description::STEP AP203
+INFO: Header : File Name::michaud_chailly_6206 SNR
+INFO: Header : Implementation Level::2;1
+INFO: Header : Organization::CADENAS
+INFO: Header : Originating System::PARTsolutions
+INFO: Header : Preprocessor Version::ST-DEVELOPER v20
+INFO: Header : Schema::CONFIG_CONTROL_DESIGN
+INFO: Header : Time Stamp::2026-10-14T12:04:37+02:00
+INFO: Begin CAD File Read 'C:/Users/RhomDev/Documents/Projet_arbre_force_meca/import/MICHAUD_CHAILLY_TRANSMISSION_michaudchailly6206SNR/STEP-203/michaud_chailly_6206 SNR.stp'
+
+INFO:       Summary of STEP Entities
+INFO: 
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: advanced_brep_shape_representation .......................:   6
+INFO: advanced_face ............................................:   34
+INFO: application_context ......................................:   1
+INFO: application_protocol_definition ..........................:   1
+INFO: axis2_placement_3d .......................................:   87
+INFO: cartesian_point ..........................................:   121
+INFO: circle ...................................................:   32
+INFO: closed_shell .............................................:   6
+INFO: context_dependent_shape_representation ...................:   20
+INFO: cylindrical_surface ......................................:   12
+INFO: direction ................................................:   174
+INFO: edge_curve ...............................................:   32
+INFO: edge_loop ................................................:   64
+INFO: face_bound ...............................................:   66
+INFO: geometric_representation_context_and_global_uncertainty_a :   7
+INFO: item_defined_transformation ..............................:   20
+INFO: length_unit_and_si_unit ..................................:   1
+INFO: manifold_solid_brep ......................................:   6
+INFO: next_assembly_usage_occurrence ...........................:   20
+INFO: oriented_edge ............................................:   64
+INFO: plane ....................................................:   8
+INFO: plane_angle_unit_and_si_unit .............................:   1
+INFO: product ..................................................:   7
+INFO: product_category .........................................:   7
+INFO: product_context ..........................................:   7
+INFO: product_definition .......................................:   7
+INFO: product_definition_context ...............................:   7
+INFO: product_definition_formation_with_specified_source .......:   7
+INFO: product_definition_shape .................................:   27
+INFO: product_related_product_category .........................:   7
+INFO: property_definition ......................................:   2
+INFO: property_definition_representation .......................:   2
+INFO: representation ...........................................:   2
+INFO: representation_relationship_with_transformation_and_shape :   20
+INFO: shape_definition_representation ..........................:   7
+INFO: shape_representation .....................................:   7
+INFO: shape_representation_relationship ........................:   6
+INFO: si_unit_and_solid_angle_unit .............................:   1
+INFO: spherical_surface ........................................:   2
+INFO: toroidal_surface .........................................:   12
+INFO: uncertainty_measure_with_unit ............................:   7
+INFO: value_representation_item ................................:   2
+INFO: vertex_loop ..............................................:   2
+INFO: vertex_point .............................................:   34
+INFO:                                                              -------
+INFO: Total                                                         965
+
+
+INFO: Creating the NX Part:	14-Oct-2026 10:05:43 AM
+INFO: Creating Part ..:	C:\Users\RhomDev\Documents\Projet_arbre_force_meca\import\MICHAUD_CHAILLY_TRANSMISSION_michaudchailly6206SNR\STEP-203\michaud_chailly_6206 SNR.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	20
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	24
+
+
+INFO: Creating the NX Part:	14-Oct-2026 10:05:43 AM
+INFO: Creating Part ..:	C:\Users\RhomDev\Documents\Projet_arbre_force_meca\import\MICHAUD_CHAILLY_TRANSMISSION_michaudchailly6206SNR\STEP-203\michaud_chailly_6206 SNR_PART1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	14-Oct-2026 10:05:43 AM
+INFO: Creating Part ..:	C:\Users\RhomDev\Documents\Projet_arbre_force_meca\import\MICHAUD_CHAILLY_TRANSMISSION_michaudchailly6206SNR\STEP-203\michaud_chailly_6206 SNR_PART2.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	14-Oct-2026 10:05:43 AM
+INFO: Creating Part ..:	C:\Users\RhomDev\Documents\Projet_arbre_force_meca\import\MICHAUD_CHAILLY_TRANSMISSION_michaudchailly6206SNR\STEP-203\michaud_chailly_6206 SNR_PART3.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	14-Oct-2026 10:05:43 AM
+INFO: Creating Part ..:	C:\Users\RhomDev\Documents\Projet_arbre_force_meca\import\MICHAUD_CHAILLY_TRANSMISSION_michaudchailly6206SNR\STEP-203\michaud_chailly_6206 SNR_PART4.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	14-Oct-2026 10:05:43 AM
+INFO: Creating Part ..:	C:\Users\RhomDev\Documents\Projet_arbre_force_meca\import\MICHAUD_CHAILLY_TRANSMISSION_michaudchailly6206SNR\STEP-203\michaud_chailly_6206 SNR_PART5.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	14-Oct-2026 10:05:43 AM
+INFO: Creating Part ..:	C:\Users\RhomDev\Documents\Projet_arbre_force_meca\import\MICHAUD_CHAILLY_TRANSMISSION_michaudchailly6206SNR\STEP-203\michaud_chailly_6206 SNR_PART6.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Total number of solids/sheets created :		6
+
+
+
+
+INFO: Number of Error Messages..........:	0
+INFO: Number of Warning Messages........:	0
+
+
+INFO: End of Translation:	14-Oct-2026 10:05:43 AM
