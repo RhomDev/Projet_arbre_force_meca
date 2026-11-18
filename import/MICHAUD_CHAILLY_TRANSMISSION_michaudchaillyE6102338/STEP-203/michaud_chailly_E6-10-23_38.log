@@ -1,0 +1,82 @@
+INFO: Start of Translation:	18-Nov-2026 12:06:16 PM
+
+INFO: Header : Author::License CC BY-ND 4.0
+INFO: Header : Authorization::  
+INFO: Header : Description::STEP AP203
+INFO: Header : File Name::michaud_chailly_E6-10-23_38
+INFO: Header : Implementation Level::2;1
+INFO: Header : Organization::CADENAS
+INFO: Header : Originating System::PARTsolutions
+INFO: Header : Preprocessor Version::ST-DEVELOPER v20
+INFO: Header : Schema::CONFIG_CONTROL_DESIGN
+INFO: Header : Time Stamp::2026-11-18T11:56:07+01:00
+INFO: Begin CAD File Read 'C:/Users/ropradeau/Documents/GitHub/Projet_arbre_force_meca/import/MICHAUD_CHAILLY_TRANSMISSION_michaudchaillyE6102338/STEP-203/michaud_chailly_E6-10-23_38.stp'
+
+INFO:       Summary of STEP Entities
+INFO: 
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: advanced_brep_shape_representation .......................:   1
+INFO: advanced_face ............................................:   8
+INFO: application_context ......................................:   1
+INFO: application_protocol_definition ..........................:   1
+INFO: axis2_placement_3d .......................................:   17
+INFO: cartesian_point ..........................................:   25
+INFO: circle ...................................................:   8
+INFO: closed_shell .............................................:   1
+INFO: direction ................................................:   34
+INFO: edge_curve ...............................................:   8
+INFO: edge_loop ................................................:   16
+INFO: face_bound ...............................................:   16
+INFO: geometric_representation_context_and_global_uncertainty_a :   1
+INFO: length_unit_and_si_unit ..................................:   1
+INFO: manifold_solid_brep ......................................:   1
+INFO: oriented_edge ............................................:   16
+INFO: plane_angle_unit_and_si_unit .............................:   1
+INFO: product ..................................................:   1
+INFO: product_category .........................................:   1
+INFO: product_context ..........................................:   1
+INFO: product_definition .......................................:   1
+INFO: product_definition_context ...............................:   1
+INFO: product_definition_formation_with_specified_source .......:   1
+INFO: product_definition_shape .................................:   1
+INFO: product_related_product_category .........................:   1
+INFO: property_definition ......................................:   2
+INFO: property_definition_representation .......................:   2
+INFO: representation ...........................................:   2
+INFO: shape_definition_representation ..........................:   1
+INFO: shape_representation .....................................:   1
+INFO: shape_representation_relationship ........................:   1
+INFO: si_unit_and_solid_angle_unit .............................:   1
+INFO: toroidal_surface .........................................:   8
+INFO: uncertainty_measure_with_unit ............................:   1
+INFO: value_representation_item ................................:   2
+INFO: vertex_point .............................................:   8
+INFO:                                                              -------
+INFO: Total                                                         193
+
+
+INFO: Creating the NX Part:	18-Nov-2026 12:06:16 PM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\import\MICHAUD_CHAILLY_TRANSMISSION_michaudchaillyE6102338\STEP-203\michaud_chailly_E6-10-23_38.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Total number of solids/sheets created :		1
+
+
+
+
+INFO: Number of Error Messages..........:	0
+INFO: Number of Warning Messages........:	0
+
+
+INFO: End of Translation:	18-Nov-2026 12:06:16 PM

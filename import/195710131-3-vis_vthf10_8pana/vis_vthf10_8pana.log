@@ -1,0 +1,106 @@
+INFO: Start of Translation:	18-Nov-2026 12:28:54 PM
+
+INFO: Header : Author::TraceParts
+INFO: Header : Authorization:: 
+INFO: Header : Description::STEP AP203
+INFO: Header : File Name::vis_vthf10_8pana.stp
+INFO: Header : Implementation Level::1
+INFO: Header : Organization::TraceParts S.A.S.
+INFO: Header : Originating System:: 
+INFO: Header : Preprocessor Version::Spatial InterOp 3D
+INFO: Header : Schema::CONFIG_CONTROL_DESIGN
+INFO: Header : Time Stamp::2026-11-18T11:24:09
+INFO: Begin CAD File Read 'C:/Users/ropradeau/Documents/GitHub/Projet_arbre_force_meca/import/195710131-3-vis_vthf10_8pana/vis_vthf10_8pana.stp'
+
+INFO:       Summary of STEP Entities
+INFO: 
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: advanced_brep_shape_representation .......................:   1
+INFO: advanced_face ............................................:   25
+INFO: application_context ......................................:   1
+INFO: application_protocol_definition ..........................:   1
+INFO: applied_approval_assignment ..............................:   1
+INFO: applied_date_and_time_assignment .........................:   2
+INFO: applied_person_and_organization_assignment ...............:   5
+INFO: applied_security_classification_assignment ...............:   1
+INFO: approval .................................................:   1
+INFO: approval_date_time .......................................:   1
+INFO: approval_person_organization .............................:   1
+INFO: approval_role ............................................:   1
+INFO: approval_status ..........................................:   1
+INFO: axis2_placement_3d .......................................:   40
+INFO: b_spline_curve_with_knots_and_rational_b_spline_curve ....:   16
+INFO: calendar_date ............................................:   1
+INFO: cartesian_point ..........................................:   176
+INFO: circle ...................................................:   14
+INFO: closed_shell .............................................:   1
+INFO: conical_surface ..........................................:   10
+INFO: conversion_based_unit_and_length_unit ....................:   1
+INFO: coordinated_universal_time_offset ........................:   1
+INFO: cylindrical_surface ......................................:   2
+INFO: date_and_time ............................................:   1
+INFO: date_time_role ...........................................:   2
+INFO: dimensional_exponents ....................................:   2
+INFO: direction ................................................:   108
+INFO: edge_curve ...............................................:   58
+INFO: edge_loop ................................................:   26
+INFO: face_bound ...............................................:   1
+INFO: face_outer_bound .........................................:   25
+INFO: geometric_representation_context_and_global_uncertainty_a :   1
+INFO: length_measure_with_unit .................................:   1
+INFO: length_unit_and_si_unit ..................................:   1
+INFO: line .....................................................:   28
+INFO: local_time ...............................................:   1
+INFO: manifold_solid_brep ......................................:   1
+INFO: organization .............................................:   1
+INFO: oriented_edge ............................................:   116
+INFO: person ...................................................:   1
+INFO: person_and_organization ..................................:   1
+INFO: person_and_organization_role .............................:   4
+INFO: plane ....................................................:   13
+INFO: plane_angle_unit_and_si_unit .............................:   1
+INFO: product ..................................................:   1
+INFO: product_category .........................................:   1
+INFO: product_category_relationship ............................:   1
+INFO: product_context ..........................................:   1
+INFO: product_definition .......................................:   1
+INFO: product_definition_context ...............................:   1
+INFO: product_definition_formation_with_specified_source .......:   1
+INFO: product_definition_shape .................................:   1
+INFO: product_related_product_category .........................:   1
+INFO: security_classification ..................................:   1
+INFO: security_classification_level ............................:   1
+INFO: shape_definition_representation ..........................:   1
+INFO: si_unit_and_solid_angle_unit .............................:   1
+INFO: uncertainty_measure_with_unit ............................:   1
+INFO: vector ...................................................:   28
+INFO: vertex_point .............................................:   36
+INFO:                                                              -------
+INFO: Total                                                         775
+
+
+INFO: Creating the NX Part:	18-Nov-2026 12:28:54 PM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\import\195710131-3-vis_vthf10_8pana\vis_vthf10_8pana.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Total number of solids/sheets created :		1
+
+
+
+
+INFO: Number of Error Messages..........:	0
+INFO: Number of Warning Messages........:	0
+
+
+INFO: End of Translation:	18-Nov-2026 12:28:54 PM
