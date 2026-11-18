@@ -1,0 +1,107 @@
+INFO: Start of Translation:	18-Nov-2026 9:17:25 AM
+
+INFO: Header : Author::TraceParts
+INFO: Header : Authorization:: 
+INFO: Header : Description::STEP AP203
+INFO: Header : File Name::skf_bearing_30306_2.stp
+INFO: Header : Implementation Level::1
+INFO: Header : Organization::TraceParts S.A.S.
+INFO: Header : Originating System:: 
+INFO: Header : Preprocessor Version::Spatial InterOp 3D
+INFO: Header : Schema::CONFIG_CONTROL_DESIGN
+INFO: Header : Time Stamp::2026-02-08T10:43:20
+INFO: Begin CAD File Read 'C:/Users/ropradeau/Documents/GitHub/Projet_arbre_force_meca/import/195697576-3-skf_bearing_30306_2/skf_bearing_30306_2.stp'
+
+INFO:       Summary of STEP Entities
+INFO: 
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: advanced_brep_shape_representation .......................:   3
+INFO: advanced_face ............................................:   124
+INFO: application_context ......................................:   1
+INFO: application_protocol_definition ..........................:   1
+INFO: applied_approval_assignment ..............................:   1
+INFO: applied_date_and_time_assignment .........................:   2
+INFO: applied_person_and_organization_assignment ...............:   5
+INFO: applied_security_classification_assignment ...............:   1
+INFO: approval .................................................:   1
+INFO: approval_date_time .......................................:   1
+INFO: approval_person_organization .............................:   1
+INFO: approval_role ............................................:   1
+INFO: approval_status ..........................................:   1
+INFO: axis2_placement_3d .......................................:   286
+INFO: b_spline_curve_with_knots ................................:   56
+INFO: calendar_date ............................................:   1
+INFO: cartesian_point ..........................................:   1625
+INFO: circle ...................................................:   159
+INFO: closed_shell .............................................:   3
+INFO: conical_surface ..........................................:   42
+INFO: conversion_based_unit_and_length_unit ....................:   1
+INFO: coordinated_universal_time_offset ........................:   1
+INFO: cylindrical_surface ......................................:   6
+INFO: date_and_time ............................................:   1
+INFO: date_time_role ...........................................:   2
+INFO: dimensional_exponents ....................................:   2
+INFO: direction ................................................:   620
+INFO: edge_curve ...............................................:   263
+INFO: edge_loop ................................................:   156
+INFO: face_bound ...............................................:   32
+INFO: face_outer_bound .........................................:   124
+INFO: geometric_representation_context_and_global_uncertainty_a :   1
+INFO: length_measure_with_unit .................................:   1
+INFO: length_unit_and_si_unit ..................................:   1
+INFO: line .....................................................:   48
+INFO: local_time ...............................................:   1
+INFO: manifold_solid_brep ......................................:   3
+INFO: organization .............................................:   1
+INFO: oriented_edge ............................................:   526
+INFO: person ...................................................:   1
+INFO: person_and_organization ..................................:   1
+INFO: person_and_organization_role .............................:   4
+INFO: plane ....................................................:   32
+INFO: plane_angle_unit_and_si_unit .............................:   1
+INFO: product ..................................................:   1
+INFO: product_category .........................................:   1
+INFO: product_category_relationship ............................:   1
+INFO: product_context ..........................................:   1
+INFO: product_definition .......................................:   1
+INFO: product_definition_context ...............................:   1
+INFO: product_definition_formation_with_specified_source .......:   1
+INFO: product_definition_shape .................................:   1
+INFO: product_related_product_category .........................:   1
+INFO: security_classification ..................................:   1
+INFO: security_classification_level ............................:   1
+INFO: shape_definition_representation ..........................:   3
+INFO: si_unit_and_solid_angle_unit .............................:   1
+INFO: toroidal_surface .........................................:   44
+INFO: uncertainty_measure_with_unit ............................:   1
+INFO: vector ...................................................:   48
+INFO: vertex_point .............................................:   171
+INFO:                                                              -------
+INFO: Total                                                         4423
+
+
+INFO: Creating the NX Part:	18-Nov-2026 9:17:25 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\import\195697576-3-skf_bearing_30306_2\skf_bearing_30306_2.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	3
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	7
+
+
+INFO: Total number of solids/sheets created :		3
+
+
+
+
+INFO: Number of Error Messages..........:	0
+INFO: Number of Warning Messages........:	0
+
+
+INFO: End of Translation:	18-Nov-2026 9:17:25 AM

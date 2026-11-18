@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-02032017-086586";"";
+"REFERENCE";"30306";"";
+"TraceParts.PartVersion";"1.4.5";"";
+"TraceParts.InstanceId";"10-02032017-086586BD1PQDB0BDXBCXYQQPVBYM4Z8";"";
+"TraceParts.PartTitle";"Tapered roller bearings, single row";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Tapered roller bearings, single row, Bore Ø 30 mm, Outside Ø 72 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.385";"kg";
