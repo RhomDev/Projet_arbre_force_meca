@@ -1,0 +1,104 @@
+INFO: Start of Translation:	27-Nov-2026 9:46:47 AM
+
+INFO: Header : Author::TraceParts
+INFO: Header : Authorization:: 
+INFO: Header : Description::STEP AP203
+INFO: Header : File Name::7940025.stp
+INFO: Header : Implementation Level::1
+INFO: Header : Organization::TraceParts S.A.S.
+INFO: Header : Originating System:: 
+INFO: Header : Preprocessor Version::Spatial InterOp 3D
+INFO: Header : Schema::CONFIG_CONTROL_DESIGN
+INFO: Header : Time Stamp::2026-09-02T06:57:04
+INFO: Begin CAD File Read 'M:/conception meca/Conception_M2/projet/Projet_arbre_force_meca/import/circlips_25/7940025.stp'
+
+INFO:       Summary of STEP Entities
+INFO: 
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: advanced_brep_shape_representation .......................:   1
+INFO: advanced_face ............................................:   20
+INFO: application_context ......................................:   1
+INFO: application_protocol_definition ..........................:   1
+INFO: applied_approval_assignment ..............................:   1
+INFO: applied_date_and_time_assignment .........................:   2
+INFO: applied_person_and_organization_assignment ...............:   5
+INFO: applied_security_classification_assignment ...............:   1
+INFO: approval .................................................:   1
+INFO: approval_date_time .......................................:   1
+INFO: approval_person_organization .............................:   1
+INFO: approval_role ............................................:   1
+INFO: approval_status ..........................................:   1
+INFO: axis2_placement_3d .......................................:   49
+INFO: calendar_date ............................................:   1
+INFO: cartesian_point ..........................................:   111
+INFO: circle ...................................................:   28
+INFO: closed_shell .............................................:   1
+INFO: conversion_based_unit_and_length_unit ....................:   1
+INFO: coordinated_universal_time_offset ........................:   1
+INFO: cylindrical_surface ......................................:   14
+INFO: date_and_time ............................................:   1
+INFO: date_time_role ...........................................:   2
+INFO: dimensional_exponents ....................................:   2
+INFO: direction ................................................:   124
+INFO: edge_curve ...............................................:   54
+INFO: edge_loop ................................................:   24
+INFO: face_bound ...............................................:   4
+INFO: face_outer_bound .........................................:   20
+INFO: geometric_representation_context_and_global_uncertainty_a :   1
+INFO: length_measure_with_unit .................................:   1
+INFO: length_unit_and_si_unit ..................................:   1
+INFO: line .....................................................:   26
+INFO: local_time ...............................................:   1
+INFO: manifold_solid_brep ......................................:   1
+INFO: organization .............................................:   1
+INFO: oriented_edge ............................................:   108
+INFO: person ...................................................:   1
+INFO: person_and_organization ..................................:   1
+INFO: person_and_organization_role .............................:   4
+INFO: plane ....................................................:   6
+INFO: plane_angle_unit_and_si_unit .............................:   1
+INFO: product ..................................................:   1
+INFO: product_category .........................................:   1
+INFO: product_category_relationship ............................:   1
+INFO: product_context ..........................................:   1
+INFO: product_definition .......................................:   1
+INFO: product_definition_context ...............................:   1
+INFO: product_definition_formation_with_specified_source .......:   1
+INFO: product_definition_shape .................................:   1
+INFO: product_related_product_category .........................:   1
+INFO: security_classification ..................................:   1
+INFO: security_classification_level ............................:   1
+INFO: shape_definition_representation ..........................:   1
+INFO: si_unit_and_solid_angle_unit .............................:   1
+INFO: uncertainty_measure_with_unit ............................:   1
+INFO: vector ...................................................:   26
+INFO: vertex_point .............................................:   36
+INFO:                                                              -------
+INFO: Total                                                         703
+
+
+INFO: Creating the NX Part:	27-Nov-2026 9:46:48 AM
+INFO: Creating Part ..:	M:\conception meca\Conception_M2\projet\Projet_arbre_force_meca\import\circlips_25\7940025.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Total number of solids/sheets created :		1
+
+
+
+
+INFO: Number of Error Messages..........:	0
+INFO: Number of Warning Messages........:	0
+
+
+INFO: End of Translation:	27-Nov-2026 9:46:48 AM
