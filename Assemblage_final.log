@@ -1034,3 +1034,851 @@ INFO: Number of Warning Messages........:	0
 
 
 INFO: End of Translation:	27-Nov-2026 10:58:20 AM
+<<<<<<< HEAD
+=======
+INFO: Start of Translation:	27-Nov-2026 10:59:44 AM
+
+INFO: Header : Author::Unknown
+INFO: Header : Authorization::Unknown
+INFO: Header : Description::Unknown
+INFO: Header : File Name::Assemblage_final.stp
+INFO: Header : Implementation Level::2;1
+INFO: Header : Organization::Unknown
+INFO: Header : Originating System::SIEMENS PLM Software NX2606.1700
+INFO: Header : Preprocessor Version::ST-DEVELOPER v20.1
+INFO: Header : Schema::AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 1 }
+INFO: Header : Time Stamp::2026-11-27T10:56:56+01:00
+INFO: Begin CAD File Read 'C:/Users/ropradeau/Documents/GitHub/Projet_arbre_force_meca/Assemblage_final.stp'
+
+INFO:       Summary of STEP Entities
+INFO: 
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: advanced_brep_shape_representation .......................:   42
+INFO: advanced_face ............................................:   960
+INFO: application_context ......................................:   1
+INFO: application_protocol_definition ..........................:   1
+INFO: axis2_placement_3d .......................................:   1980
+INFO: b_spline_curve_with_knots ................................:   344
+INFO: b_spline_curve_with_knots_and_rational_b_spline_curve ....:   15
+INFO: b_spline_surface_with_knots ..............................:   6
+INFO: b_spline_surface_with_knots_and_rational_b_spline_surface :   16
+INFO: cartesian_point ..........................................:   6582
+INFO: circle ...................................................:   871
+INFO: closed_shell .............................................:   44
+INFO: colour_rgb ...............................................:   4
+INFO: conical_surface ..........................................:   107
+INFO: context_dependent_shape_representation ...................:   89
+INFO: conversion_based_unit_and_plane_angle_unit ...............:   53
+INFO: cylindrical_surface ......................................:   323
+INFO: dimensional_exponents ....................................:   53
+INFO: direction ................................................:   4841
+INFO: edge_curve ...............................................:   2192
+INFO: edge_loop ................................................:   1350
+INFO: ellipse ..................................................:   81
+INFO: face_bound ...............................................:   748
+INFO: face_outer_bound .........................................:   617
+INFO: fill_area_style ..........................................:   44
+INFO: fill_area_style_colour ...................................:   44
+INFO: geometrically_bounded_wireframe_shape_representation .....:   6
+INFO: geometric_curve_set ......................................:   6
+INFO: geometric_representation_context_and_global_uncertainty_a :   53
+INFO: item_defined_transformation ..............................:   89
+INFO: length_unit_and_si_unit ..................................:   53
+INFO: line .....................................................:   881
+INFO: manifold_solid_brep ......................................:   44
+INFO: mechanical_design_geometric_presentation_representation ..:   42
+INFO: next_assembly_usage_occurrence ...........................:   89
+INFO: oriented_edge ............................................:   4384
+INFO: plane ....................................................:   459
+INFO: plane_angle_measure_with_unit ............................:   53
+INFO: plane_angle_unit_and_si_unit .............................:   53
+INFO: point_style ..............................................:   6
+INFO: presentation_layer_assignment ............................:   1
+INFO: presentation_style_assignment ............................:   50
+INFO: pre_defined_point_marker_symbol ..........................:   6
+INFO: product ..................................................:   53
+INFO: product_context ..........................................:   53
+INFO: product_definition .......................................:   53
+INFO: product_definition_context ...............................:   53
+INFO: product_definition_formation_with_specified_source .......:   53
+INFO: product_definition_shape .................................:   142
+INFO: product_related_product_category .........................:   53
+INFO: representation_relationship_with_transformation_and_shape :   89
+INFO: shape_definition_representation ..........................:   53
+INFO: shape_representation .....................................:   53
+INFO: shape_representation_relationship ........................:   48
+INFO: si_unit_and_solid_angle_unit .............................:   53
+INFO: spherical_surface ........................................:   5
+INFO: styled_item ..............................................:   50
+INFO: surface_side_style .......................................:   44
+INFO: surface_style_fill_area ..................................:   44
+INFO: surface_style_usage ......................................:   44
+INFO: toroidal_surface .........................................:   44
+INFO: uncertainty_measure_with_unit ............................:   53
+INFO: vector ...................................................:   881
+INFO: vertex_loop ..............................................:   15
+INFO: vertex_point .............................................:   1579
+INFO:                                                              -------
+INFO: Total                                                         31198
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:46 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Assemblage_final_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	2
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	6
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:46 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Assemblage_partie_droite_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	9
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	13
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:46 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\enceinte_piece17_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:46 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Assemblage_arbre_couvercle_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	6
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	10
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:46 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\assemblage_circlip_couvercle_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	2
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	6
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:46 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\couvercle_piece_40_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:46 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\circlips_interne_62.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:46 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\assemblage_arbre_circlip_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	2
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	6
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\arbre_embrayable_piece_23_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\circlips_externe_30.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_39_roulement_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	20
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	24
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6206 SNR_PART1_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6206 SNR_PART2_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6206 SNR_PART3_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6206 SNR_PART4_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6206 SNR_PART5_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6206 SNR_PART6_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_44_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Point....................................................:	1
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	6
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_26_Joint_carre_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_24_base_ressort_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Embrayage_piece_36_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Point....................................................:	1
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	6
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Assemblage_levier_embrayage_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	3
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	7
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_16_enclencheur_embrayage_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Point....................................................:	1
+INFO: Solid/Sheet..............................................:	2
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	7
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_13_18_levier_embrayage_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	2
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	6
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_14_goupille_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_22_circlip_arbre_liaison.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Assemblage_arbre_de_liaison_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	5
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	9
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_8bis_arbre_de_liaison_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Point....................................................:	1
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	6
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_31_roulement_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	20
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	24
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6205SC3 SNR_PART1_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6205SC3 SNR_PART2_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6205SC3 SNR_PART3_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6205SC3 SNR_PART4_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6205SC3 SNR_PART5_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_6205SC3 SNR_PART6_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_32_entredose_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_20_Clavette_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_21_rondelle_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_19_pignon_10dents_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_27_circlips_25_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Assemblage_partie_gauche_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	9
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	13
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:47 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_7_bis_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:48 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_3_bis_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:48 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_5_32206B_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Component................................................:	11
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	15
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:48 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_32206B_PART1_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:48 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_32206B_PART2_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:48 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_32206B_PART3_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:48 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\michaud_chailly_32206B_PART4_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:48 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_1_Chape_superieur_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Point....................................................:	1
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	6
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:48 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_6__pignon_24dents_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Point....................................................:	1
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	6
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:48 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_8_bis_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:48 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_10_bride_fixation_inferieur_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Creating the NX Part:	27-Nov-2026 10:59:48 AM
+INFO: Creating Part ..:	C:\Users\ropradeau\Documents\GitHub\Projet_arbre_force_meca\Piece_2_Joint_carre_10x10_1.prt
+
+
+INFO: Summary of NX Entities
+
+INFO: Entity Type                                                   Count
+INFO: -----------                                                   ------
+INFO: Solid/Sheet..............................................:	1
+INFO: Part Attribute...........................................:	4
+INFO:                                                              -------
+INFO: Total                                                    :	5
+
+
+INFO: Total number of solids/sheets created :		44
+
+
+
+
+INFO: Number of Error Messages..........:	0
+INFO: Number of Warning Messages........:	0
+
+
+INFO: End of Translation:	27-Nov-2026 10:59:48 AM
+>>>>>>> te
